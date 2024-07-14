@@ -1,3 +1,5 @@
+# Despre WaterMap Craiova
+
 Salut! Sunt un tânăr din Craiova și am creat aplicația WaterMap pentru a promova sursele de apă potabilă din orașul nostru. 
 
 Utilizând această aplicație, nu doar că te poți hidrata gratuit, dar contribui și la reducerea consumului de plastic, protejând mediul înconjurător. Este un mic pas spre un stil de viață mai sănătos și sustenabil.
